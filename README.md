@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner7.PNG" alt="Offshore Autonomous Blade Inspection Mission Simulator V2" width="100%">
+  <img src="banner7.PNG" alt="Offshore 
 </p> Autonomous Blade Inspection Mission Simulator V2" width="100%">
 </p>
 
